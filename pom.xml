@@ -90,13 +90,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.206.71.5:8081/repository/tespp1-release/</url>
+	      <url>http://3.215.175.209:8081/repository/malow1-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.206.71.5:8081/repository/teslapp2-snapshot/</url>
+	      <url>http://3.215.175.209:8081/repository/malow2-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
